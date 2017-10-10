@@ -1,6 +1,6 @@
 /*This application calculates charges for a parking garage. A $2.00 minimum fee to park up to 3 hours .
   The garage charges an additional $0.50 per hour for each hour, the maximum charge any given 24-hour period
-  is $10.00, assuming that no car parks for longer than 24 hours at a time.
+  is $10.00, assuming that no car parks for longer than 24 hours at a time..
 * */
 
 import java.util.*;
